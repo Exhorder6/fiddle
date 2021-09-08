@@ -64,7 +64,7 @@
     "semver": "^7.3.4",
     "shell-path": "^2.1.0",
     "tmp": "0.2.1",
-    "tslib": "^2.1.0",
+    "tslib": "^2.3.1",
     "update-electron-app": "^2.0.1"
   },
   "devDependencies": {
