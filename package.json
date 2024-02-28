@@ -63,7 +63,7 @@
     "react-mosaic-component": "^4.1.1",
     "semver": "^7.3.4",
     "shell-path": "^2.1.0",
-    "tmp": "0.2.1",
+    "tmp": "0.2.2",
     "tslib": "^2.1.0",
     "update-electron-app": "^2.0.1"
   },
